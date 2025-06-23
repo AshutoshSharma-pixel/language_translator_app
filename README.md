@@ -1,16 +1,43 @@
-# language_translation
+# 🌐 Language Translator App
 
-A new Flutter project.
+![GitHub stars](https://img.shields.io/github/stars/AshutoshSharma-pixel/language_translator_app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AshutoshSharma-pixel/language_translator_app?style=social)
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue)
+![Flutter](https://img.shields.io/badge/built%20with-Flutter-blueviolet)
 
-## Getting Started
+A simple yet powerful Flutter app that translates text between **five languages** using the [Google Translator API](https://pub.dev/packages/google_translator).
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🌍 Translate between:
+  - 🇬🇧 English
+  - 🇮🇳 Hindi
+  - 🇪🇸 Spanish
+  - 🇫🇷 French
+  - 🇸🇦 Arabic
+- 🧠 Auto language detection
+- 🪄 Clean and responsive UI
+- 📱 Works on both **Android** and **iOS**
+- 🔁 Realtime text translation output
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio / Xcode setup
+- Internet connection (for API to work)
+
+### Installation
+
+```bash
+git clone https://github.com/AshutoshSharma-pixel/language_translator_app.git
+cd language_translator_app
+flutter pub get
+flutter run
